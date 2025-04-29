@@ -1,3 +1,7 @@
+Internship Success Analytics Insights with Power BI Excel
+
+
+
 PROJECT OVERVIEW.
 
 This analysis focuses on internship completion rates, leveraging Power BI and Excel to uncover key factors influencing success. It explores variables such as mentor involvement, internship length, and departmental trends, aiming to provide actionable insights to enhance internship program effectiveness.
